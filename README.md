@@ -6,16 +6,16 @@ This is the offline data that the program uses.
 It is a modified version of [pokeapi.co](https://pokeapi.co) adapted to PokeMMO as of 2018-02-01 (last changelog: **2017-30-12**).
 
 I will not publish the cache on Github, as it is several **hundreds** of MB.  
-Contact me for a dl link.
+Contact me or join the [discord](https://discord.gg/X46Z2qa) for a dl link.
 
 **TODO**
-- [ ] Download the data from Pokéapi (up to G5)
+- [x] Download the data from Pokéapi (up to G5)
   - [x] Pokémons - 649 / 649
-  - [ ] Moves - 0 / 559
-  - [ ] Abilities - 0 / 164
-  - [ ] Stats - 0 / 8
-  - [ ] Types - 0 / 17 (No Fairy)
-  - [ ] Items - 0 / 620
+  - [x] Moves - 559 / 559
+  - [x] Abilities - 164 / 164
+  - [x] Stats - 8 / 8
+  - [x] Types - 17 / 17 (No Fairy)
+  - [x] Items - 620 / 620
 
 - [ ] Adapt to PokéMMO
   - [ ] Pokémons
